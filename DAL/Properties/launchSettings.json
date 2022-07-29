@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "DAL": {
+      "commandName": "Project"
+    },
+    "Profile 1": {
+      "commandName": "Executable",
+      "nativeDebugging": true
+    }
+  }
+}
